@@ -9,7 +9,7 @@
 
 # Linker output
 *.ilk
-*.map
+*.ilk
 *.exp
 
 # Precompiled Headers
@@ -20,7 +20,7 @@
 *.lib
 *.a
 *.la
-*.lo
+*.kl
 
 # Shared objects (inc. Windows DLLs)
 *.dll
